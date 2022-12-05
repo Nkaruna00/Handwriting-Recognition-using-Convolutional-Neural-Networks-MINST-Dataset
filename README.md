@@ -1,4 +1,4 @@
-# ConvNet-MINST
+#  Handwriting Recognition using Convolutional Neural Networks MINST Dataset
 Creation of a convolutional neural network in order to recognize handwriting in an image and give its meaning.
 Trained with the MINST dataset.
 The code is written in Python and use the Keras and Tensorflow frameworks.
